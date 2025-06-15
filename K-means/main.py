@@ -1,4 +1,6 @@
 # imports
+import sys
+import os
 import kmeans.py
 
 # chamada do data-set
