@@ -1,7 +1,7 @@
 # imports
 import sys
 import os
-import kmeans.py
+import kmeans
 
 # chamada do data-set
 def ObtemDataset(name):

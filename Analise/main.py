@@ -5,6 +5,12 @@ import kmeans;
 import hierarquico;
 
 if '__name__' == '__main__':
-    print("Graficos estão sendo gerados....")
-    
-    print("Graficos gerados.")
+    # Análise com o Alg K-Means
+    print("Graficos do K-Means estão sendo gerados....")
+    print("Graficos do K-Means gerados.")
+    #Print dos gráficos
+
+    # Análise com o Alg Hierarquico
+    print("Graficos do Hierarquico estão sendo gerados....")
+    print("Graficos do Hierarquico gerados.")
+    #Print dos gráficos
